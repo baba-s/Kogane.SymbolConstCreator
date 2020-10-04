@@ -15,7 +15,7 @@ namespace Kogane.Internal
 		private static readonly string PACKAGE_NAME              = "UniSymbolConstCreator";
 		private static readonly string DEFAULT_OUTPUT_ASSET_PATH = "Assets/UniSymbolConst.cs";
 
-		private static readonly string DEFAULT_CODE_TEMPLATE = @"namespace MyProject
+		private static readonly string DEFAULT_CODE_TEMPLATE = @"namespace Kogane
 {
     public static partial class UniSymbolConst
     {

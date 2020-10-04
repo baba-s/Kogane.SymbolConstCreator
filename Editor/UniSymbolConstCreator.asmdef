@@ -1,0 +1,19 @@
+{
+    "name": "UniSymbolConstCreator",
+    "references": [
+        "GUID:8aac84f00d5a67c489a9b769329afb86",
+        "GUID:28c00eec21f0ea143a80ff96fb15e56a",
+        "GUID:8d5930cf95a468048836c17dcae3c7b5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

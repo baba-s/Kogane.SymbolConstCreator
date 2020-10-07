@@ -4,9 +4,11 @@ UniSymbol に登録されているシンボルを定数の文字列で管理す�
 
 ## 依存しているパッケージ
 
-- [UniConstStringCodeGenerator](https://github.com/baba-s/UniConstStringCodeGenerator)
-- [UniScriptableObjectForProjectSettings](https://github.com/baba-s/UniScriptableObjectForProjectSettings)
-- [UniSymbol](https://github.com/baba-s/UniSymbol)
+```
+https://github.com/baba-s/UniConstStringCodeGenerator.git
+https://github.com/baba-s/UniScriptableObjectForProjectSettings.git
+https://github.com/baba-s/UniSymbol.git
+```
 
 ## 使い方
 

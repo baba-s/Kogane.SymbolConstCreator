@@ -2,6 +2,12 @@
 
 UniSymbol に登録されているシンボルを定数の文字列で管理するクラスを生成するエディタ拡張
 
+## 依存しているパッケージ
+
+- [UniConstStringCodeGenerator](https://github.com/baba-s/UniConstStringCodeGenerator)
+- [UniScriptableObjectForProjectSettings](https://github.com/baba-s/UniScriptableObjectForProjectSettings)
+- [UniSymbol](https://github.com/baba-s/UniSymbol)
+
 ## 使い方
 
 ![2020-10-07_094732](https://user-images.githubusercontent.com/6134875/95274993-3d2c0d80-0882-11eb-9245-d02eb4ed7d82.png)

@@ -1,6 +1,6 @@
-# UniSymbolConstCreator
+# Kogane Symbol Const Creator
 
-UniSymbol に登録されているシンボルを定数の文字列で管理するクラスを生成するエディタ拡張
+Kogane.Symbol に登録されているシンボルを定数の文字列で管理するクラスを生成するエディタ拡張
 
 ## 依存しているパッケージ
 
@@ -14,7 +14,7 @@ https://github.com/baba-s/UniSymbol.git
 
 ![2020-10-07_094732](https://user-images.githubusercontent.com/6134875/95274993-3d2c0d80-0882-11eb-9245-d02eb4ed7d82.png)
 
-UniSymbolSettings.asset の Inspector で「Create Const Script」を押すと  
+UniSymbolSettings.asset の Inspector で「Create Const Script」を押すと
 
 ![2020-10-07_094759](https://user-images.githubusercontent.com/6134875/95274996-4026fe00-0882-11eb-99e6-55c2d8aca2db.png)
 
@@ -37,7 +37,7 @@ namespace Kogane
 }
 ```
 
-UniSymbol に登録されているシンボルを定数の文字列で管理するクラスを生成できます  
+UniSymbol に登録されているシンボルを定数の文字列で管理するクラスを生成できます
 
 ![2020-10-07_094705](https://user-images.githubusercontent.com/6134875/95274991-3b624a00-0882-11eb-8a87-8ccb319991de.png)
 

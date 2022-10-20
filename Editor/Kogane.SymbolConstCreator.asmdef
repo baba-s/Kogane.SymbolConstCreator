@@ -1,9 +1,9 @@
-{
-    "name": "UniSymbolConstCreator",
+﻿{
+    "name": "Kogane.SymbolConstCreator",
+    "rootNamespace": "",
     "references": [
         "GUID:8aac84f00d5a67c489a9b769329afb86",
-        "GUID:28c00eec21f0ea143a80ff96fb15e56a",
-        "GUID:8d5930cf95a468048836c17dcae3c7b5"
+        "GUID:6015810331fac6446b690cc2cbd434f4"
     ],
     "includePlatforms": [
         "Editor"
